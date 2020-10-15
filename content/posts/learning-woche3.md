@@ -15,4 +15,4 @@ Dies ermöglicht eine visuelle Darstellung der git-Struktur.
 
 Jedes Commit bildet **einen Knoten** und die Verweise zu dem zugehörigen Vorgänger **die Kanten**.
 
-s. auch [open git buch](http://gitbu.ch/index.html)
+s. auch ![open git buch](C:\Users\gkohl\lese-notizen\resources\_gen\images)
