@@ -1,7 +1,6 @@
 ---
 title: "Learning Woche3"
 date: 2020-10-14T21:36:40+02:00
-draft: true
 ---
 
 ## LernOs - git -md / Woche 3
@@ -14,5 +13,4 @@ draft: true
 Dies ermöglicht eine visuelle Darstellung der git-Struktur.
 
 Jedes Commit bildet **einen Knoten** und die Verweise zu dem zugehörigen Vorgänger **die Kanten**.
-
-s. auch ![open git buch](C:\Users\gkohl\lese-notizen\resources\_gen\images)
+![Pfade](/img/scr-git.jpg)
