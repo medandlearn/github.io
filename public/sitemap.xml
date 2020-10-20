@@ -3,11 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/deploy-presentations/</loc>
+    <lastmod>2020-10-20T18:21:23+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/</loc>
+    <lastmod>2020-10-18T21:53:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-10-18T21:53:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/pr%C3%A4sentationen/</loc>
+    <lastmod>2020-10-18T21:53:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/presentationen-mit-reveal/</loc>
+    <lastmod>2020-10-18T21:53:40+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2020-10-18T21:53:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/choco/</loc>
+    <lastmod>2020-10-15T22:41:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/git/</loc>
+    <lastmod>2020-10-15T22:41:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/how-to-use-hugo/</loc>
+    <lastmod>2020-10-15T22:41:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/hugo/</loc>
+    <lastmod>2020-10-15T22:41:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2020-10-15T22:41:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-10-15T22:35:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/git-lernen/</loc>
+    <lastmod>2020-10-14T22:23:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/untagged/</loc>
+    <lastmod>2020-10-14T22:23:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/learning-woche3/</loc>
+    <lastmod>2020-10-14T21:36:40+02:00</lastmod>
   </url>
   
 </urlset>

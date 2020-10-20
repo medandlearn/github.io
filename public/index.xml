@@ -6,6 +6,70 @@
     <description>Recent content on Lesenotizen über dies und das</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 21:53:40 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy Presentations</title>
+      <link>https://example.com/deploy-presentations/</link>
+      <pubDate>Tue, 20 Oct 2020 18:21:23 +0200</pubDate>
+      
+      <guid>https://example.com/deploy-presentations/</guid>
+      <description>Reveal-Präsentationen veröffentlichen Ressourcen: Blog-Artikel
+https://opensource.com/article/20/4/create-web-tutorial-git
+Icons https://www.webfx.com/tools/emoji-cheat-sheet/
+🎶</description>
+    </item>
+    
+    <item>
+      <title>Präsentationen Mit Reveal</title>
+      <link>https://example.com/posts/presentationen-mit-reveal/</link>
+      <pubDate>Sun, 18 Oct 2020 21:53:40 +0200</pubDate>
+      
+      <guid>https://example.com/posts/presentationen-mit-reveal/</guid>
+      <description>Präsentationen im Browser mit reveal.js Installation von Reveal Ein einfacher Weg zur Basisinstallation führt einfach über das Herunterladen und Entpacken des Githubordners mit der Adresse https://github.com/hakimel/reveal.js/archive/master.zip
+Codedarstellung mit Reveal Auf einer Seite kann HTML-Code dargestellt werden. Allerdings müssen alle spitzen Klammern encoded benutzt werden. Dieser etwas mühsame Schritt kann mit einem online-HTML-Encoder-Decoder erledigt werden https://mothereff.in/html-entities
+Audio und Video in Reveal Beides lässt sich mit den bekannten audio und video-Tag einbinden, allerdings bemötigt man die richtigen Parameter, damit die Seite das gewünschte Verhalten zeigt.</description>
+    </item>
+    
+    <item>
+      <title>How to Use Hugo</title>
+      <link>https://example.com/posts/how-to-use-hugo/</link>
+      <pubDate>Thu, 15 Oct 2020 22:41:02 +0200</pubDate>
+      
+      <guid>https://example.com/posts/how-to-use-hugo/</guid>
+      <description>Blogseiten mit hugo erstellen mehr über mich
+Was ist hugo Mit hugo.js lassen sich statische Webseiten erzeugen. Dies ist ideal um einen Blog darzustellen.
+Start ins Bloggen Für euren Start mit einem neuen Blog könnt ihr als erstes einen neuen Projektordner anlegen. Da es unser Ziel ist alle Blog-Dateien sauber zu versionieren, starten wir mit der Installation von git für Windows. Mit dieser Installation hält auch ein neues Konsolenprogramm Einzug auf deinem Rechner, git bash.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 15 Oct 2020 22:35:30 +0200</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Über mich Beim schreiben klären sich Gedanken und es ist ein schönes Gefühl sich nicht nur die Zeit für sich selbst zu nehmen sondern zu hoffen, dass auch Andere aus dem Blog vielleicht Nutzen ziehen.</description>
+    </item>
+    
+    <item>
+      <title>Git Lernen</title>
+      <link>https://example.com/posts/git-lernen/</link>
+      <pubDate>Wed, 14 Oct 2020 22:23:41 +0200</pubDate>
+      
+      <guid>https://example.com/posts/git-lernen/</guid>
+      <description>Quellen, um Git interaktiv zu lernen  git-Basis-Befehle interaktiv ausprobieren  </description>
+    </item>
+    
+    <item>
+      <title>Learning Woche3</title>
+      <link>https://example.com/posts/learning-woche3/</link>
+      <pubDate>Wed, 14 Oct 2020 21:36:40 +0200</pubDate>
+      
+      <guid>https://example.com/posts/learning-woche3/</guid>
+      <description>LernOs - git -md / Woche 3 Agenda Grundsätzliches zur Git-Philosophie  Da jeder Commit seine direkten Vorfahren speichert, entsteht eine Graph-Struktur. Genauer gesagt erzeugt die Anordnung der Commits einen gerichteten, der keine Zyklen enthält
+ Dies ermöglicht eine visuelle Darstellung der git-Struktur.
+Jedes Commit bildet einen Knoten und die Verweise zu dem zugehörigen Vorgänger die Kanten. </description>
+    </item>
+    
   </channel>
 </rss>

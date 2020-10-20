@@ -74,3 +74,14 @@ title = "Mein Blog über dies und das"
 
 ### Einen neuen Blogartikel ergänzen
 
+### Mit einem github-repository synchronisieren
+
+```bash
+gkohl@DESKTOP-I8QMPGP MINGW64 ~/lese-notizen (master)
+$  git remote add origin https://github.com/medandlearn/how-use-git-md
+
+gkohl@DESKTOP-I8QMPGP MINGW64 ~/lese-notizen (master)
+$ git push -u origin master
+```
+
+
